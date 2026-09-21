@@ -178,7 +178,7 @@ Map2Doc is intended strictly for **authorized penetration testing, red team enga
 
 ## 👤 Author
 
-**Davud Qasimov** ([@etozryx](https://discord.com))
+**Davud Qasimov** ([@etozryx_13553](https://discord.com))
 - Medium: [https://medium.com/@qasimovdavud39](https://medium.com/@qasimovdavud39)
 - LinkedIn: [linkedin.com/in/davud-qasimov-798928303](https://linkedin.com/in/davud-qasimov-798928303)
 
