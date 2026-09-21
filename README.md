@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logoo.png" width="20%" height="30%" style="vertical-align: middle;">
+  <img src="map2doc.png" width="20%" height="30%" style="vertical-align: middle;">
 </h1>
 
 <p align="center">
