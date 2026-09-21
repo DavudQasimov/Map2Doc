@@ -189,4 +189,4 @@ Map2Doc is intended strictly for **authorized penetration testing, red team enga
 MIT License — free to use, modify, and distribute with attribution.
 
 ## 📖Medium Post about Map2Doc
-https://medium.com/@qasimovdavud39/a62d14f71737
+[https://medium.com/@qasimovdavud39/a62d14f71737](https://medium.com/@qasimovdavud39/map2doc-the-swiss-army-knife-for-smb-ad-enumeration-and-why-i-built-it-a62d14f71737)
